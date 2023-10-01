@@ -2,4 +2,4 @@ venv/
 env/
 .vscode
 .idea
-images
+__pycache__
