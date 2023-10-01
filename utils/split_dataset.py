@@ -1,6 +1,7 @@
 import os
 import shutil
 
+# Run this script from the root directory of the project using python utils/split_dataset.py
 IMAGES_FOLDER_PATH = 'images'
 TRAIN_DIR_PATH = 'dataset/train'
 TEST_DIR_PATH = 'dataset/test'
